@@ -1,0 +1,17 @@
+D:\2 курс\OOPiP2_5\OOPiP2_5\bin\Debug\OOPiP2_5.exe.config
+D:\2 курс\OOPiP2_5\OOPiP2_5\bin\Debug\OOPiP2_5.exe
+D:\2 курс\OOPiP2_5\OOPiP2_5\bin\Debug\OOPiP2_5.pdb
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.csproj.AssemblyReference.cache
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\MainWindow.baml
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\MainWindow.g.cs
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\App.g.cs
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5_MarkupCompile.cache
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.g.resources
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.Properties.Resources.resources
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.csproj.GenerateResource.cache
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.csproj.CoreCompileInputs.cache
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.exe
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.pdb
+D:\2 курс\OOPiP2_5\OOPiP2_5\bin\Debug\MyLib.dll
+D:\2 курс\OOPiP2_5\OOPiP2_5\bin\Debug\MyLib.pdb
+D:\2 курс\OOPiP2_5\OOPiP2_5\obj\Debug\OOPiP2_5.csproj.Up2Date

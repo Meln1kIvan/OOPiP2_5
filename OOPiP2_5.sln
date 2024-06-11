@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPiP2_5", "OOPiP2_5\OOPiP2_5.csproj", "{768BD6FD-289D-4E02-8140-B8319B47F8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{4367DDAC-C261-4E27-ABA0-FB426C0604B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.MyLib", "Tests.MyLib\Tests.MyLib.csproj", "{2E6948A4-33FD-43BE-BD43-FEBA6F76A950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768BD6FD-289D-4E02-8140-B8319B47F8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768BD6FD-289D-4E02-8140-B8319B47F8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768BD6FD-289D-4E02-8140-B8319B47F8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768BD6FD-289D-4E02-8140-B8319B47F8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4367DDAC-C261-4E27-ABA0-FB426C0604B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4367DDAC-C261-4E27-ABA0-FB426C0604B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4367DDAC-C261-4E27-ABA0-FB426C0604B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4367DDAC-C261-4E27-ABA0-FB426C0604B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6948A4-33FD-43BE-BD43-FEBA6F76A950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6948A4-33FD-43BE-BD43-FEBA6F76A950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6948A4-33FD-43BE-BD43-FEBA6F76A950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6948A4-33FD-43BE-BD43-FEBA6F76A950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F0046C-8427-425A-9904-72C8C4BD8ACD}
+	EndGlobalSection
+EndGlobal
